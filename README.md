@@ -1,4 +1,4 @@
-# Zalora_H-M_WebScrape
+# Zalora_H&M_WebScrape
 A H&amp;M Web Scrape to get images from website using python request API calls
 
 # H&m Web Scrape using python API calls
